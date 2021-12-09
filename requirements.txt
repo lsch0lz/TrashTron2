@@ -1,0 +1,4 @@
+pyyaml==5.1
+torch==1.10.0
+nvidia-cuda-runtime-cu111
+detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.10/index.html
