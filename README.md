@@ -41,7 +41,7 @@ ResNext-101 | 59.305 | 78.326 | 63.566
 ![False-Positives](https://i.imgur.com/xMij5o7.png)
 
 # To-Do's
-- [ ] release v0.1
+- [x] release v0.1
 
 - [ ] Increase number of annotated images
 
