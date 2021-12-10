@@ -2,6 +2,8 @@
 
 TrashTron2 is a Instance-Segmentation-Model based on [FAIR's Detectron2](https://github.com/facebookresearch/detectron2). TrashTron2 is currently trained on over 200+ Images of trash provided by [TACO](https://github.com/pedropro/TACO).
 
+You can use and train TrashTron2 in the associated [TrashTron2 Notebook](https://colab.research.google.com/drive/1IrutxbF5P1LnbXOjIhMCBu6hJdr5qrjz?usp=sharing) with Google Collab. See the instruction under [GettingStarted](https://github.com/therealgherkhin/TrashTron2/blob/main/GettingStarted.md).
+
 # Outcome
 
 <p align="middle">
