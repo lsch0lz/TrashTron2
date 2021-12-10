@@ -11,7 +11,7 @@ If you want to train the models locally install all the necessary packages with 
 You can find the associated Images in the first release v0.1. Download the .zip and put your repisitory in the following folder structure:
 ```
 ├── TrashTron2.ipynb
-├──  dataset                    
+├──  datasets                    
 |    ├── train/                         # training images
 |    ├── val/                           # validation iamges
 |    ├── train.json                     # training annotations
